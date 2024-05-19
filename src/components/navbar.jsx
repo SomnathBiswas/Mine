@@ -99,7 +99,7 @@ const Navbar = () => {
         <Link href="https://x.com/HelloSomnath?t=9klg3c6sTaiMjhLeq2LuHA&s=09">
           <Image src="/twitter.png" alt="" width={24} height={24} />
         </Link>
-        <Link href="/">
+        <Link href="https://discord.gg/SWWHzJsk">
           <Image src="/discord.png" alt="" width={24} height={24} />
         </Link>
         <Link href="https://konect.gg/F4E_Crypto">
