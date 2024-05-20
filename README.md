@@ -1,4 +1,4 @@
-Checkout <a href ="https://mine-386eeyr4n-somnath-biswas-projects.vercel.app/">Here</a>
+Checkout <a href ="https://mine-7kp7f7pmu-somnath-biswas-projects.vercel.app/">Here</a>
 
 ## Getting Started
 
