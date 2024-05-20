@@ -55,7 +55,7 @@ const AboutPage = () => {
             {/* BIOGRAPHY QUOTE */}
             <span className="italic">
               Feel free to reach out to me via LinkedIn messaging or at
-              somnathbiswas576@gmail.com. Together, let&aposs shape the future of
+              somnathbiswas576@gmail.com. Together, lets shape the future of
               web technology!
             </span>
             {/* BIOGRAPHY SIGN SVG*/}
