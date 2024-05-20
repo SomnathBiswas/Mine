@@ -41,21 +41,21 @@ const AboutPage = () => {
             <h1 className="font-bold text-2xl">BIOGRAPHY</h1>
             {/* BIOGRAPHY DESC */}
             <p className="text-lg">
-              Hello 👋 I'm Somnath Biswas, a B.Tech. final year student
+              Hello 👋 I am Somnath Biswas, a B.Tech. final year student
               specializing in Computer Science & Engineering. Passionate about
               coding and problem-solving, I have found my true calling in Web
-              Development. 💻 As a fervent learner, I've honed my skills in
+              Development. 💻 As a fervent learner, I have honed my skills in
               HTML, CSS, JavaScript, and modern frameworks like React. I have a
               strong desire to take on new challenges and expand my knowledge. I
               am excited to continue my journey and contribute to the
-              ever-evolving field of web development. 🤝Let's connect! I'm
+              ever-evolving field of web development. 🤝Lets connect! I am
               enthusiastic about networking with fellow professionals, mentors,
               and potential collaborators.
             </p>
             {/* BIOGRAPHY QUOTE */}
             <span className="italic">
               Feel free to reach out to me via LinkedIn messaging or at
-              somnathbiswas576@gmail.com. Together, let's shape the future of
+              somnathbiswas576@gmail.com. Together, let&aposs shape the future of
               web technology!
             </span>
             {/* BIOGRAPHY SIGN SVG*/}
