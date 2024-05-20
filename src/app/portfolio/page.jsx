@@ -10,7 +10,7 @@ const items = [
     color: "from-red-300 to-blue-300",
     title: "AlgoHub",
     desc: "Visualize different types of algorithms and their shortest path using ReactJS. User-friendly for all students who are beginners at DSA and want to visualize the paths of algorithm easily.",
-    img: "https://images.pexels.com/photos/18073372/pexels-photo-18073372/free-photo-of-young-man-sitting-in-a-car-on-a-night-street.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    img: "/AlgoHub.jpg",
     link: "https://stalwart-sprinkles-833524.netlify.app/",
   },
   {
@@ -18,15 +18,15 @@ const items = [
     color: "from-blue-300 to-violet-300",
     title: "GoCrypto",
     desc: "It is a crypto dashboard app, where you can check the latest crypto prices, market cap, volume, and more. It is built with Next.js and Tailwind CSS.",
-    img: "https://images.pexels.com/photos/18023772/pexels-photo-18023772/free-photo-of-close-up-of-a-person-holding-a-wristwatch.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    img: "/GoCrypto.png",
     link: "https://wondrous-faun-9fc9cc.netlify.app/",
   },
   {
     id: 3,
     color: "from-violet-300 to-purple-300",
     title: "ChillFlix",
-    desc: "This project is a movie website built using React.js and integrated with The Movie Database (TMDb) API. It allows users to search for movies, view details about them, and add them to their favorites or watchlist.",
-    img: "https://images.pexels.com/photos/6894528/pexels-photo-6894528.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    desc: "This project is a movie website built using React.js and integrated with The Movie Database (TMDb) API.",
+    img: "/ChillFlix.jpeg",
     link: "https://movix-i1uqqxnfp-somnath-biswas-projects.vercel.app/",
   },
   {
@@ -34,17 +34,17 @@ const items = [
     color: "from-purple-300 to-red-300",
     title: "ASAP Translator",
     desc: "It is a live translator is a software application or tool that enables real-time translation of text or speech from one language to another. ",
-    img: "https://images.pexels.com/photos/18540208/pexels-photo-18540208/free-photo-of-wood-landscape-water-hill.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    img: "/ASAP.png",
     link: "https://incomparable-melba-4fa5b3.netlify.app/",
   },
-  // {
-  //   id: 5,
-  //   color: "from-pink-300 to-purple-300",
-  //   title: "DevPad",
-  //   desc: "Welcome to DevPad, basically it is an online web development platform that allows users to write, share, and showcase HTML, CSS, and JavaScript code snippets. It serves as a playground for front-end developers, designers, and anyone interested in web development to experiment with code in a live environment.",
-  //   img: "https://images.pexels.com/photos/18540208/pexels-photo-18540208/free-photo-of-wood-landscape-water-hill.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-  //   link: "https://glowing-clafoutis-00ebe2.netlify.app/",
-  // },
+  {
+    id: 5,
+    color: "from-pink-300 to-purple-300",
+    title: "DevPad",
+    desc: "Welcome to DevPad, basically it is an online web development platform that allows users to write, share, and showcase HTML, CSS, and JavaScript code snippets.",
+    img: "/DevPad.png",
+    link: "https://glowing-clafoutis-00ebe2.netlify.app/",
+  },
 ];
 
 const PortfolioPage = () => {
@@ -108,7 +108,7 @@ const PortfolioPage = () => {
             </defs>
             <text fill="#000">
               <textPath xlinkHref="#circlePath" className="text-xl">
-                Front-end Developer and UI Designer
+                Full-Stack Developer and UI Designer
               </textPath>
             </text>
           </motion.svg>
